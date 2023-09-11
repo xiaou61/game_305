@@ -676,7 +676,7 @@
                         // 固定数组中的密码
                         //TODO 这里是密码
                         //the password in it
-                        var validCodes = ['123456', '555555'];
+                        var validCodes = ['365889'];
 
                         if (this.password.length < 6) {
                             // 密码长度小于6，提示信息
