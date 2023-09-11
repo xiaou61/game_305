@@ -631,7 +631,7 @@
                                 break
                         }
                     }, turnHome() {
-                        this.showBtn1 = !0, this.showBtn2 = !1, this.showBtn3 = !1, this.showBtn4 = !1, this.showBtn5 = !1, this.showBtn6 = !1, this.showBtn7 = !1, this.titleText = "更多精彩关注心动怦然"
+                        this.showBtn1 = !0, this.showBtn2 = !1, this.showBtn3 = !1, this.showBtn4 = !1, this.showBtn5 = !1, this.showBtn6 = !1, this.showBtn7 = !1, this.titleText = "解锁恋爱新体验"
                     }, setName() {
                         this.showSet = !0
                     }, showPasd() {
