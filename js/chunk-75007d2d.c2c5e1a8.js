@@ -179,7 +179,7 @@
                     attrs: {type: "default"},
                     on: {
                         click: function (s) {
-                            console.log(123)
+                            return t.toPlaneVue(7)
                         }
                     }
                 }, [t._v("自定义")]), s("div", {staticClass: "hot"}, [t._v("HOT")]), t.isPass ? t._e() : s("img", {
