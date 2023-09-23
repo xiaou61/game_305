@@ -406,11 +406,15 @@
     }, "62d4": function (s, t, i) {
         s.exports = i.p + "https://img1.imgtp.com/2023/09/23/9PUHyzw5.png"
     }, 7640: function (s, t, i) {
-        s.exports = i.p + "img/sifter1.d7c17399.gif"
+        // sifter图床
+        // 1
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/hj59bHqM.gif"
     }, 7809: function (s, t, i) {
-        s.exports = i.p + "img/sifter5.0927b5f4.gif"
+        // 5
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/0wVBFFXJ.gif"
     }, "7fd1": function (s, t, i) {
-        s.exports = i.p + "img/sifter4.37a4e434.gif"
+        //4
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/6DUJUQzO.gif"
     }, 9958: function (s, t, i) {
         // 图床在这里
         s.exports = i.p + "https://img1.imgtp.com/2023/09/23/9PUHyzw5.png"
@@ -469,12 +473,15 @@
         "use strict";
         i("9efc")
     }, d6b6: function (s, t, i) {
-        s.exports = i.p + "img/sifter3.06aad15f.gif"
+        // 3
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/a7SRI8Vg.gif"
     }, eac6: function (s, t, i) {
         s.exports = i.p + "img/redflag.6a3a9703.png"
     }, eb38: function (s, t, i) {
-        s.exports = i.p + "img/sifter6.10012d09.gif"
+        // 6
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/AwWUKTSd.gif"
     }, f074: function (s, t, i) {
-        s.exports = i.p + "img/sifter2.c6335b77.gif"
+        // 2
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/24/oqLVuNfr.gif"
     }
 }]);
