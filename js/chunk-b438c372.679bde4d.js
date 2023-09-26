@@ -404,7 +404,8 @@
         "use strict";
         i("182b")
     }, "62d4": function (s, t, i) {
-        s.exports = i.p + "https://img1.imgtp.com/2023/09/23/9PUHyzw5.png"
+        // 头像
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/26/qTHUcrXl.jpg"
     }, 7640: function (s, t, i) {
         // sifter图床
         // 1
@@ -417,7 +418,8 @@
         s.exports = i.p + "https://img1.imgtp.com/2023/09/24/6DUJUQzO.gif"
     }, 9958: function (s, t, i) {
         // 图床在这里
-        s.exports = i.p + "https://img1.imgtp.com/2023/09/23/9PUHyzw5.png"
+        // 头像
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/26/D34R8tj5.jpg"
     }, "9efc": function (s, t, i) {
     }, cc18: function (s, t, i) {
         "use strict";
